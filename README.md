@@ -1,7 +1,7 @@
 # Werlei Mendes Andrade
 ## Este é meu repositório pessoal utilizado para estudos. Seja bem vindo.
 
-Sou um profissional que atua na área de TI por mais de 10 anos, formado em redes, com certificações na área de Cloud Computing, experiencia em diversos ERPs do mercado. Atualmente trabalho como coordenador de TI em um supermercado. Estou buscando recolocação na área de Cloud ou DevOps.
+Sou um profissional que atua na área de TI por mais de 10 anos, formado em redes, com certificações na área de Cloud Computing, experiencia em diversos ERPs do mercado. Atualmente trabalho como coordenador de TI em um supermercado. 
 
 ## Tecnologias que domino ou estou me desenvolvendo
 
